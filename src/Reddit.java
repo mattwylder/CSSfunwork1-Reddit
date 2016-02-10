@@ -14,7 +14,7 @@ import net.dean.jraw.models.Submission;
 import net.dean.jraw.paginators.SubredditPaginator;
 
 
-public class Fukkr {
+public class Reddit{
 	
 	private static String SECRET_KEY = "XJhi3zIKZswt1VufE0tntAyEkdE";
 	private static String CLIENT_ID = "3-eHD5rWaZtd0w";
